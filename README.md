@@ -13,6 +13,7 @@ The following illustration shows one way to conceptualize the relationships betw
 
 ## Project's Structure
 :::image type="content" source="Resources/Images/structure-project.png" alt-text="structure project":::
+![Alt text](Resources/Images/structure-project.png?raw=true "structure project")
 
 ## Creating the Generic Interface Repository
 

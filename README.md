@@ -11,6 +11,9 @@ The following illustration shows one way to conceptualize the relationships betw
 
 ![Repository_pattern_diagram](https://asp.net/media/2578149/Windows-Live-Writer_8c4963ba1fa3_CE3B_Repository_pattern_diagram_1df790d3-bdf2-4c11-9098-946ddd9cd884.png)
 
+## Project's Structure
+:::image type="content" source="Rescourses/Images/structure-project.png" alt-text="structure project":::
+
 ## Creating the Generic Interface Repository
 
 In the _Domain/Interfaces_ folder, create a class file named _IRepository.cs_ and replace the existing code with the following code:
